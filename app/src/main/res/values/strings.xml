@@ -1,0 +1,39 @@
+<resources>
+
+    <!--splash screen -->
+    <string name="app_name">BMI Calculator</string>
+    <string name="bmi_calculator">BMI CALCULATOR</string>
+    <string name="splash_txt">This BMI Calculator helps you to find your ideal weight.</string>
+
+
+    <!--swap screen 1-->
+
+
+    <!--swap screen 2-->
+
+
+    <!--welcome screen/Enter name screen -->
+    <string name="welcome_txt">WELCOME</string>
+    <string name="what_s_your_name">What\'s your Name?</string>
+    <string name="nextBtnTxt">Next</string>
+
+    <!--select you gender Screen-->
+    <string name="select_your_gender">SELECT YOUR GENDER</string>
+    <string name="man">MAN</string>
+    <string name="woman">WOMAN</string>
+
+
+    <!--Home Activity-->
+    <string name="weight">WEIGHT</string>
+    <string name="height">HEIGHT</string>
+    <string name="blank">🔽</string>
+    <string name="Age">AGE</string>
+    <string name="calculate_your_bmi">Calculate your BMI</string>
+    <string name="_000">000</string>
+    <string name="_00">00</string>
+    <string name="gender">gender</string>
+    <string name="recalculate_your_bmi">RECALCULATE YOUR BMI</string>
+    <string name="your_bmi_category_is">YOUR BMI CATEGORY IS</string>
+
+
+</resources>
